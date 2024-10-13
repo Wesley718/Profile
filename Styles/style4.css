@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+}
+
+.background {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color:#BD5F5F;
+    height: 700px;
+}
+
+.navigator {
+    text-align: left;
+    margin-right: 15px;
+    position: sticky;
+    width: 100%;
+    background-color: #8A87D8;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 48.5px;
+}
+
+.buttons-box {
+    top: 0;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding-top: 6px;
+}
+
+.buttons {
+    color: #c03636;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.buttons:hover {
+    color: red;
+}
+
+.home {
+    padding: 10px;
+}
+
+.review {
+    padding: 10px;
+}
+
+.recommendation {
+    padding: 10px;
+}
+
+.contact {
+    background-color: #57CA68;
+    padding: 10px;
+}
+
+.content {
+    text-align: center;
+}
+
+.white-seperator {
+    height: 40px;
+}
+
+.title {
+    font-size: 100px;
+    color: black;
+}
+
+.introduction {
+    font-size: 45px;
+    color: black;
+}
+
+.email {
+    font-size: 25px;
+    color: purple;
+}
+
+.ins {
+    font-size: 25px;
+    color: purple;
+}
+
+.address {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+}
+
+.address:hover {
+    color: blue;
+}
+
+.white-space {
+    height: 30px;
+}
+
+.entertain {
+    font-size: 90px;
+    color: black;
+}

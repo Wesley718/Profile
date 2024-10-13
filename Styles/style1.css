@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+}
+
+.background {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color:#BD5F5F;
+    height: 599px;
+}
+
+.navigator {
+    text-align: left;
+    margin-right: 15px;
+    position: sticky;
+    width: 100%;
+    background-color: #8A87D8;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 48.5px;
+}
+
+.buttons-box {
+    top: 0;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding-top: 6px;
+}
+
+.buttons {
+    color: #c03636;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.buttons:hover {
+    color: red;
+}
+
+.home {
+    background-color: #57CA68;
+    padding: 10px;
+}
+
+.review {
+    padding: 10px;
+}
+
+.recommendation {
+    padding: 10px;
+}
+
+.contact {
+    padding: 10px;
+}
+
+.homepage {
+    text-align: center;
+}
+
+.white-seperator {
+    height: 90px;
+}
+
+.name {
+    font-family: sans-serif;
+    font-size: 100px;
+}
+
+.title {
+    font-family: sans-serif;
+    font-size: 75px;
+    color: #64C6B2;
+}
+
+.introduction {
+    font-family: sans-serif;
+    font-size: 35px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
